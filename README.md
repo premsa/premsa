@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Premtim Sahitaj, a PhD student at the Technical University of Berlin. 
 
-<!--
-**premsa/premsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on fake news detection at the Technical University of Berlin.
+- 🌱 I’m currently learning too many things at once. 
+- 👯 I’m looking to collaborate on projects with multimodals language models for different domains. 
+- 💬 Ask me about anything [here](https://github.com/premsa/premsa/issues).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+--->
+
