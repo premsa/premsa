@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on knowledge-based reasoning for fake news detection.
 - 🌱 I’m currently learning to build adaptive LLM architectures. 
-- 👯 I’m looking to collaborate on projects with multimodals language models for different domains. 
-- 💬 If you are looking to write your thesis about an interesting topic in NLP, do not hesitate to contact my experienced colleague [@mlenz](https://github.com/mirkolenz])
-
+- 👯 I’m looking to collaborate on (research) projects with multimodals language models for different domains. 
 
 <!--- 
   if you have forked this to use on your profile, 
