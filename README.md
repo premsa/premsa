@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Premtim Sahitaj, a PhD student at the Technical University of Berlin. 
 
 - 🔭 I’m currently working on knowledge-based reasoning for fake news detection.
-- 🌱 I’m currently learning too many things at once. 
+- 🌱 I’m currently learning to build adaptive LLM architectures. 
 - 👯 I’m looking to collaborate on projects with multimodals language models for different domains. 
-- 💬 Ask me about anything [here](https://github.com/premsa/premsa/issues).
+- 💬 If you are looking to write your thesis about an interesting topic in NLP, do not hesitate to contact my experienced colleague [@mlenz](https://github.com/mirkolenz])
 
 
 <!--- 
